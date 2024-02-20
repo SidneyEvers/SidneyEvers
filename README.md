@@ -2,17 +2,8 @@
 
 Bem-vindo(a) ao meu repositório de estudos! Aqui você encontrará uma mistura de códigos, projetos e aprendizados sobre os assuntos mais empolgantes que estou explorando no momento. 🌟
 
- List<C#> assuntosEmEstudo = new List<C#>
-        {
-            ".NET",
-            "MVC Core",
-            "Entity Framework",
-            "Identity Framework",
-            "Linguagens de Programação (c#, JavaScript.)",
-            "Tecnologias estudadas (HTML, CSS, API Rest, MySql Server, Git, GitHub, ASP .NET, BootStrap)",
-            "Teste unitário",
-            "Cloud Services (AWS, Azure)"
-        };
+Aqui vou deixar algumas das linguagens e tecnologias usadas em projetos...
+{c#, JavaScript, HTML, CSS, BootStrap, .NET, ASP .NET, ASP .Net MVC, API Rest,  API, EF framework, Identity Framework, test unitário, MySql Server, SQL Server, Git, GitHub)
         
 - 🌱 Eu estou estudando C#...
 - 👯 Atualmente estou cursando Engenharia de Software na faculdade Unicesumar...
