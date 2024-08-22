@@ -3,7 +3,7 @@
 Bem-vindo(a) ao meu repositório de estudos! Aqui você encontrará uma mistura de códigos, projetos e aprendizados sobre os assuntos mais empolgantes que estou explorando no momento. 🌟
 
 Aqui vou deixar algumas das linguagens e tecnologias usadas em projetos...
-{c#,TypeScript, JavaScript, HTML, CSS, BootStrap, .NET, ASP .NET, ASP .Net MVC, API Rest,  API, EF framework, Identity Framework, test unitário, MySql Server, SQL Server, Git, GitHub)
+{c#, Angular, TypeScript, JavaScript, HTML, CSS, BootStrap, .NET,  API Rest,  API, EF framework, Identity Framework, test unitário, MySql Server, MsSql, SQL Server, Git, GitHub)
         
 - 🌱 Eu estou estudando Java, TypeScript, Angular
 - 👯 Atualmente estou cursando Engenharia de Software...
